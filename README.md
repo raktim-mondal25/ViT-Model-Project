@@ -3,7 +3,6 @@
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![PyTorch](https://img.shields.io/badge/PyTorch-1.x-red)
 ![Colab](https://img.shields.io/badge/Run%20on-Colab-green)
-![Transformers](https://img.shields.io/badge/HuggingFace-Transformers-yellow)
 
 ## 🧠 Project Title
 *Medical Prescription OCR with Vision Transformer (ViT) and EasyOCR*
